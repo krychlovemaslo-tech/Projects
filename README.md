@@ -24,6 +24,11 @@ So one image is 20 kb. I have 4 pictures so 20 x 4 = 80 kb and that over the uno
 
 But this animations is okay so you can use it without an sd vard if you dont mind very small animations.
 
+<div align="center">
+    <img src="byte.jpg" width="300" height="300" >
+</div>
+
+
 ## What you need
 an arduino of coure
 tft oled 
@@ -49,13 +54,18 @@ My oled doesnt have to be the same as yours.
 
 <div align="center">
     <img src="wiring.jpg" width="300" height="300" >
-    <img src="wiring2j.pg" width="300" height="300" >
+    <img src="wiring2.jpg" width="300" height="300" >
     <img src="wiring3.jpg" width="300" height="300" >
 </div>
 
 ## what you have to know
 You will have to need to know the parametrs of you screen. It is very important.
-Also try to understand the code.I will try to explain it in th future
+Also try to understand the code.I will try to explain it in th future.
+Glazing Nixos time!!!
+<div align="center">
+    <img src="heart.jpg" width="300" height="300" >
+</div>
+
 ## Ending
 If i made any mistakes, tell me, i no pro at this.
 
