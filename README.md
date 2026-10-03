@@ -47,13 +47,18 @@ the only ones you have to define in you code are the RST CS DC and more.
 If you have one that is none of thee do for it research.
 My oled doesnt have to be the same as yours. 
 
+<div align="center">
+    <img src="wiring.jpg" width="300" height="300" >
+    <img src="wiring2j.pg" width="300" height="300" >
+    <img src="wiring3.jpg" width="300" height="300" >
+</div>
+
 ## what you have to know
-You will have to need to know the parametrs of you screen. It is very important
-
+You will have to need to know the parametrs of you screen. It is very important.
+Also try to understand the code.I will try to explain it in th future
 ## Ending
-If i made any istakes, tell me, i no pro at this.
+If i made any mistakes, tell me, i no pro at this.
 
-can
 
 
 
